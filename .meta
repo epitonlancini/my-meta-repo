@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "child-repo1": "https://github.com/epitonlancini/child-repo1.git",
+    "child-repo2": "https://github.com/epitonlancini/child-repo2.git"
+  }
+}
